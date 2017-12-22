@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SoundRecord", "SoundRecord\SoundRecord.vcproj", "{EC3F6057-91C4-4F22-9747-162EB1B1BB87}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{EC3F6057-91C4-4F22-9747-162EB1B1BB87}.Debug.ActiveCfg = Debug|Win32
+		{EC3F6057-91C4-4F22-9747-162EB1B1BB87}.Debug.Build.0 = Debug|Win32
+		{EC3F6057-91C4-4F22-9747-162EB1B1BB87}.Release.ActiveCfg = Release|Win32
+		{EC3F6057-91C4-4F22-9747-162EB1B1BB87}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
